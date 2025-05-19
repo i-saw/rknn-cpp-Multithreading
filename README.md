@@ -1,7 +1,3 @@
-Вот перевод на русский язык (ссылки и код оставлены без изменений):
-
----
-
 # Краткое описание  
 * Данный репозиторий реализован на C++ и основан на [rknpu2](https://github.com/rockchip-linux/rknpu2). Для быстрого развертывания на Python см. [rknn-multi-threaded](https://github.com/leafqycc/rknn-multi-threaded).  
 * Используется [пул потоков](https://github.com/senlinzhan/dpool) для асинхронной работы с моделями RKNN, что повышает загрузку NPU на RK3588/RK3588S и увеличивает частоту кадров при выводе.  
